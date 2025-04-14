@@ -19,14 +19,14 @@ npm install --save-dev @types/xlsx
 ## Preview
 
 #### First Page (Uploading)
-https://media.discordapp.net/attachments/1051551526096748544/1361406352848847018/re943uj.png?ex=67fea3f8&is=67fd5278&hm=eb55ba598ebc36c033c9fc997264d20787f662f1da0a79801f28f34e83760333&=&format=webp&quality=lossless&width=1062&height=597
+https://image.legacyrp.company/re943uj_f30385ebae.png
 
 #### Second Page
-https://freeimage.host/i/3lPI7yP
+https://image.legacyrp.company/qQGqSps_c6d221d97d.png
 
 #### Toggle
-https://freeimage.host/i/3lPIQou
+https://image.legacyrp.company/qQGqSps_c6d221d97d.png
 
 #### Toggle
-https://freeimage.host/i/3lPTqKv
+https://image.legacyrp.company/i4mZ7Ge_df4e7ddb6a.png
 

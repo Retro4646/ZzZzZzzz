@@ -19,14 +19,14 @@ npm install --save-dev @types/xlsx
 ## Preview
 
 #### First Page (Uploading)
-https://i.imgur.com/re943uj.png
+https://freeimage.host/i/3lPI9Qs
 
 #### Second Page
-https://i.imgur.com/dFy8De2.png
+https://freeimage.host/i/3lPI7yP
 
 #### Toggle
-https://i.imgur.com/i4mZ7Ge.png
+https://freeimage.host/i/3lPIQou
 
 #### Toggle
-https://i.imgur.com/qQGqSps.png
+https://freeimage.host/i/3lPTqKv
 
